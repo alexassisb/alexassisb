@@ -1,5 +1,5 @@
-- 💻 Hi there, i'm Alex.
-- 👨🏼‍💻 Developer JS, React, React Native, studying Node and SQL. 
+- 💻 Olá, sou Alex.
+- 👨🏼‍💻 Estudando de Dev Fullstack e apaixonado por tecnologia.
 
  <div>  
   <a href="https://github.com/alexassisb">
