@@ -1,5 +1,5 @@
 - 💻 Olá, sou Alex.
-- 👨🏼‍💻 Estudando de Dev Fullstack e apaixonado por tecnologia.
+- 👨🏼‍💻 Estudante de Dev Fullstack e apaixonado por tecnologia.
 
  <div>  
   <a href="https://github.com/alexassisb">
